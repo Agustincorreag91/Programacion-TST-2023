@@ -3,7 +3,8 @@
 Hola, en este repositorio se veran reflejados nuestros avances con respecto a lo solicitado en la Materia programacion.
 
 Los integrantes del grupo Son:
-    * Agustin Correa Guzman
+    
+    	 * Agustin Correa Guzman
 	 
 	 * Participante 2
     
