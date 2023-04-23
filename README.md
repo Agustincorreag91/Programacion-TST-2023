@@ -4,7 +4,7 @@ Hola, en este repositorio se veran reflejados nuestros avances con respecto a lo
 
 Los integrantes del grupo Son:
     
-    	 * Agustin Correa Guzman
+     * Agustin Correa Guzman
 	 
 	 * Participante 2
     
