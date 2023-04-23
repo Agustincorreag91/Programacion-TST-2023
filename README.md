@@ -1,4 +1,4 @@
-# Programacion-TST-2023
+﻿# Programacion-TST-2023
 
 Hola, en este repositorio se veran reflejados nuestros avances con respecto a lo solicitado en la Materia programación.
 
@@ -8,6 +8,6 @@ Los integrantes del grupo son:
 	 
 	 * Marcia Elizabeth Villablanca Rodas 
 	 
-	 * Participante 3
+	 * Jairo Guimar Jesus Moreno
     
 Saludos.    
